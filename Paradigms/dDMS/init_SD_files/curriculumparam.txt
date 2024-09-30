@@ -1,0 +1,9 @@
+FastEMA = 0.0
+SlowEMA = 0.0
+LP = 0.0
+currDL = 1
+FastAlpha = 0.99
+SlowAlpha = 0.998
+LPAlpha = 0.998
+NormSoftMax_T = 0.1
+t = 1

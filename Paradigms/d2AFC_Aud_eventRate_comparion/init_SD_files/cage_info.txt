@@ -1,0 +1,4 @@
+cage_id = 4
+calibration_factor = 6470
+weight_offset  = 0
+task = d2AFC_Aud_eventRate_comparion

@@ -1,0 +1,14 @@
+FastEMA = 0;0;0;0;
+SlowEMA = 0;0;0;0;
+ALP = 0;0;0;0;
+CurrParamsIndex = 0
+subParamsNum = 4
+miniBatch = 1
+currBatchIndex = 0
+FastAlpha = 0.990
+SlowAlpha = 0.998
+ALPAlpha = 0.998
+e_greedy = 10
+NormSoftMax_T = 0.1
+t = 1;1;1;1;
+

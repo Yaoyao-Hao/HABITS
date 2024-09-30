@@ -1,0 +1,15 @@
+EvaPerf = 0;0;0;0;0;
+LastEvaPerf = 0;0;0;0;0;
+ALP = 0;0;0;0;0;
+TargetTaskCounter = 0;0;0;0;0;
+CurrTrialModality = 0
+CurrTrialContrast = 0
+CurrTrialLightIntensity = 0
+EvaNum_per_task = 100
+subtaskNum = 5
+currEvaTaskIndex = 0
+currEvaNumIndex = 0
+updateALP_num = 1500
+currHistory_step = 1500
+t = 1
+evaFlag = 0
