@@ -1,0 +1,30 @@
+currTrialNum = 64213
+currProtocolIndex = 8
+currProtocolTrials = 6230
+currProtocolPerf = 42
+TrialPresentMode = 2
+ProtocolIndexHistory = 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 8; 
+TrialTypeHistory = 1; 1; 1; 2; 2; 1; 1; 1; 1; 2; 1; 2; 2; 2; 1; 1; 1; 1; 1; 2; 1; 2; 1; 2; 2; 2; 1; 2; 2; 2; 2; 1; 1; 2; 2; 2; 1; 2; 1; 1; 1; 2; 2; 2; 1; 1; 2; 1; 1; 1; 1; 2; 1; 2; 1; 1; 2; 1; 2; 2; 1; 1; 1; 1; 1; 2; 1; 2; 1; 2; 1; 2; 1; 2; 1; 1; 1; 2; 2; 2; 2; 1; 1; 1; 2; 2; 2; 2; 2; 1; 1; 1; 2; 2; 1; 2; 2; 2; 2; 2; 
+OutcomeHistory = 1; 0; 0; 1; 2; 0; 2; 0; 1; 2; 0; 1; 2; 1; 2; 2; 0; 0; 1; 2; 1; 2; 1; 1; 2; 2; 1; 2; 0; 2; 1; 1; 2; 1; 1; 1; 2; 0; 0; 1; 2; 0; 0; 1; 1; 2; 2; 2; 0; 0; 1; 2; 0; 1; 1; 1; 2; 0; 1; 1; 2; 0; 0; 0; 1; 1; 1; 1; 1; 1; 1; 2; 0; 2; 0; 0; 1; 2; 2; 0; 1; 2; 0; 1; 2; 0; 0; 2; 1; 1; 1; 1; 2; 0; 1; 2; 2; 2; 0; 0; 
+EarlyLickHistory = 0; 0; 0; 0; 1; 0; 1; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 1; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 1; 0; 1; 0; 0; 1; 0; 1; 0; 0; 1; 0; 0; 0; 0; 0; 1; 0; 1; 0; 0; 0; 0; 0; 0; 1; 0; 0; 0; 1; 0; 0; 0; 1; 1; 1; 0; 0; 1; 0; 1; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 1; 0; 1; 1; 0; 0; 1; 0; 0; 1; 0; 0; 0; 1; 0; 1; 1; 0; 1; 
+totalRewardNum = 28896
+reward_left = 30
+reward_right = 30
+reward_middle = 30
+GaveFreeReward.flag_L_water = 0
+GaveFreeReward.flag_R_water = 0
+GaveFreeReward.flag_M_water = 0
+GaveFreeReward.past_trials = 2
+SamplePeriod = 1200
+DelayPeriod = 1200
+TimeOut = 8000
+AnswerPeriod = 1000
+ConsumptionPeriod = 750
+StopLickingPeriod = 1000
+EarlyLickPeriod = 300
+retention_counter = 0
+low_light_intensity = 1
+high_light_intensity = 240
+
+
+

@@ -1,0 +1,3 @@
+cage_id = 14
+calibration_factor = 4896
+weight_offset = 108738

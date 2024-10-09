@@ -1,0 +1,11 @@
+theta = 0;0;0;0;0;0;0;0;0;0;0;0;
+alphaReward = 0.10
+alphaErr = 0.10
+L1 = 0.10
+Gamma = 1.00
+EtaReward = 1.00
+EtaErr = 1.00
+betaReward = 0.90
+betaErr = 0.90
+t = 0
+m = 0;0;0;0;0;0;0;0;0;0;0;0;

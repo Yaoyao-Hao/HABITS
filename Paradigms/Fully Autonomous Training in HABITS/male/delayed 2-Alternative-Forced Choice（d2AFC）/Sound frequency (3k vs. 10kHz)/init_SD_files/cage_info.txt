@@ -1,0 +1,3 @@
+cage_id = 1
+calibration_factor = 6470
+weight_offset  = 0
